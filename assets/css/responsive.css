@@ -1,0 +1,423 @@
+@media (max-width:992px) {
+    .navbar-brand img {
+        width: 140px;
+    }
+    #information-bar ul {
+        text-align: justify;
+        margin-bottom: 32px;
+    }
+    .counter-section .counter {
+        margin-bottom: 24px;
+    }
+    footer img {
+        max-width: 180px;
+    }
+    #about img[alt="civil"] {
+        display: none;
+    }
+    .time-entry span {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .section-title {
+        font-size: 26px;
+    }
+    .section-title-header p {
+        font-size: 13px;
+    }
+    .about-content .about-text h6 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .about-content .about-text p {
+        font-size: 12px;
+        font-weight: 300;
+        margin-bottom: 8px;
+    }
+    #information-bar ul li span b {
+        font-size: 18px;
+    }
+    .schedule .item-text h5 {
+        font-size: 13px;
+    }
+    .counter-section .counter .counterUp {
+        font-size: 32px;
+    }
+    .counter-section .counter p {
+        font-size: 12px;
+    }
+    .team-item .info-text p {
+        font-size: 12px;
+    }
+    .team-item .info-text {
+        padding: 16px 0px 5px;
+    }
+    .team-item .info-text h3 a {
+        font-size: 15px;
+    }
+    #pricing .active .colmun-title h5 {
+        color: #fff;
+        font-size: 16px;
+    }
+    #pricing .active .price h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    #pricing .active .price p {
+        font-size: 12px;
+    }
+    #blog muted {
+        font-size: 12px;
+    }
+    .container-form {
+        padding: 8px 10px;
+    }
+    .form-submit .btn-common {
+        width: 100%;
+        font-size: 12px;
+    }
+    .container-form .form-wrapper .form-control {
+        font-size: 11px;
+    }
+    .site-info p {
+        font-size: 12px;
+        color: #9e9e9e;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 12px;
+    }
+    .contact-wrapper ul {
+        text-align: center;
+        margin-bottom: 16px;
+    }
+}
+
+@media (max-width:776px) {
+    .video-area video {
+        object-position: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 12px;
+    }
+    .navbar-brand img {
+        width: 110px;
+    }
+    #count .count-wrapper {
+        margin-bottom: -15px;
+        margin-top: -15px;
+        padding: 12px 6px;
+        top: -20px;
+    }
+    .section-title {
+        font-size: 24px;
+    }
+    .section-sub {
+        font-size: 15px;
+    }
+    #hero-area .icon img {
+        max-width: 48px;
+    }
+    #hero-area .contents {
+        padding: 100px 0;
+    }
+    #hero-area .contents .head-title {
+        font-size: 28px;
+    }
+    #hero-area .contents .btn-date {
+        font-size: 12px;
+    }
+    #hero-area .contents .btn {
+        margin: 0px 5px 0px;
+        font-size: 13px;
+        padding: 4px 36px;
+    }
+    #hero-area .contents .banner-info {
+        font-size: 13px;
+    }
+    #hero-area .contents .banner-desc {
+        font-size: 12px;
+        line-height: 25px;
+        padding: 0px 48px;
+    }
+    #information-bar ul {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    .about-content .about-text h2 {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    .about-content ul li {
+        font-size: 12px;
+    }
+    .time-entry {
+        width: 25%;
+        font-size: 12px;
+    }
+    .time-entry span {
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .time-entry b {
+        display: none;
+    }
+    .counter-section .counter {
+        margin-bottom: 30px;
+    }
+    .schedule .nav-tabs .nav-item {
+        margin: 15px 0px;
+    }
+    .schedule .nav-tabs .nav-link {
+        padding: 12px 10px;
+    }
+    .schedule .item-text h5 {
+        font-size: 12px;
+    }
+    .schedule .card-body {
+        padding: 15px;
+    }
+    .schedule .card .schedule-slot-time {
+        display: none;
+    }
+    .schedule .card-header {
+        padding: 30px;
+    }
+    .schedule .schedule-tab-title .nav-tabs .nav-link {
+        width: 288px;
+    }
+    #event-up .event-item {
+        margin-bottom: 30px;
+    }
+    #pricing .price-block-wrapper .pricing-list {
+        padding: 10px 30px 10px 40px;
+    }
+    #sponsors .spnsors-logo {
+        margin-bottom: 15px;
+    }
+    .blog-item .descr h3 a {
+        font-size: 18px;
+    }
+    .container-form .form-wrapper {
+        padding: 20px;
+    }
+    .contact-item {
+        margin-bottom: 40px;
+    }
+    #sponsors .spnsors-logo img {
+        width: 80%;
+    }
+    #contact-text ul {
+        text-align: left;
+        margin-bottom: 15px;
+    }
+    .subscribe-inner .subscribe-title {
+        font-size: 16px;
+    }
+    .subscribe-inner .subscribe-title::before {
+        left: 40%;
+    }
+    .subscribe-inner .sub-btn {
+        width: 9rem;
+        min-width: 5rem;
+        padding: 18px 20px;
+    }
+    .contact-wrapper {
+        padding: 16px 0;
+    }
+    .contact-wrapper ul li span {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .bg-inverse {
+        background: #fff !important;
+        box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.06);
+    }
+    .navbar-expand-lg .navbar-brand,
+    .navbar-expand-lg .navbar-toggler {
+        margin: 0px 15px;
+    }
+    .navbar-nav {
+        padding: 4px 12px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0px 40px;
+        color: #212121;
+    }
+}
+
+@media (max-width: 991px) {
+    .bg-inverse {
+        background: #fff !important;
+        box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.06);
+    }
+    .navbar-expand-lg .navbar-brand,
+    .navbar-expand-lg .navbar-toggler {
+        margin: 0px 15px;
+    }
+    .navbar-nav {
+        padding: 5px 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0px 40px;
+        color: #212121;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #hero-area .contents .head-title {
+        font-size: 40px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0 10px;
+    }
+    .single-intro-text h3 {
+        font-size: 18px;
+    }
+    .counter-section .counter p {
+        font-size: 14px;
+    }
+    .schedule .card .schedule-slot-time {
+        padding: 38px 22px;
+    }
+    #pricing .price-block-wrapper .pricing-list {
+        padding: 10px 35px 10px 45px;
+    }
+    .blog-item .descr h3 a {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 991px) {
+    .page-title-section {
+        padding: 40px 0;
+    }
+    .section-titile-bg {
+        display: none;
+    }
+    .section-title {
+        font-size: 21px;
+        position: relative;
+        margin-bottom: 8px;
+    }
+    .about-item {
+        margin-bottom: 30px;
+    }
+    .accordion .header-title {
+        font-size: 12px;
+    }
+    .schedule .schedule-tab-title .nav-tabs .nav-link {
+        width: 150px;
+    }
+    .schedule .card-header h4 {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    #pricing .price-block-wrapper .pricing-list {
+        padding: 10px 35px 10px 45px;
+    }
+    #sponsors .spnsors-logo img {
+        width: 80%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #hero-area .contents .head-title {
+        font-size: 36px;
+    }
+    #information-bar ul {
+        text-align: left;
+        margin: 10px;
+    }
+    .about-content .about-text h2 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .single-intro-text h3 {
+        font-size: 15px;
+    }
+    .single-intro-text p {
+        margin-bottom: 0;
+        font-size: 12px;
+    }
+    .countdown-timer .heading-count h2 {
+        font-size: 25px;
+    }
+    .schedule .card-header {
+        padding: 20px 40px 35px 180px;
+    }
+    .schedule .card .schedule-slot-time {
+        font-size: 14px;
+        padding: 29px;
+        max-width: 22%;
+    }
+    .schedule .schedule-tab-title .nav-tabs .nav-link {
+        width: 150px;
+    }
+    .schedule .card-header h4 {
+        font-size: 14px;
+    }
+    .counter-section .counter {
+        margin-bottom: 30px;
+    }
+    #pricing .price-block-wrapper .pricing-list {
+        padding: 10px 35px 10px 60px;
+    }
+    .about-item {
+        margin-bottom: 30px;
+    }
+    .accordion .header-title {
+        font-size: 12px;
+    }
+    #pricing .price-block-wrapper .pricing-list {
+        padding: 10px 60px 10px 45px;
+    }
+    #sponsors .spnsors-logo {
+        padding: 30px;
+    }
+    #event-up .event-item {
+        margin-bottom: 20px;
+    }
+    .footer-area h3 {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width:576px) {
+    .time-entry span {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .time-entry {
+        max-width: 100%;
+        margin: auto;
+    }
+    .section-title-header p {
+        font-size: 12px;
+    }
+    .section-title {
+        font-size: 20px;
+        position: relative;
+        margin-bottom: 6px;
+    }
+    .single-intro-text h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+        font-weight: 700;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .btn {
+        padding: 5px 7px;
+        font-size: 13px;
+    }
+    .time-entry {
+        font-size: 8px;
+    }
+}
